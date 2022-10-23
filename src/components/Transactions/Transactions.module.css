@@ -1,0 +1,22 @@
+.table {
+  color: rgb(255, 255, 255);
+  background-color: rgb(72, 114, 153);
+  text-align: center;
+  width: 300px;
+  margin-top: 50px;
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  font-style: normal;
+}
+
+.case {
+  color: rgb(0, 0, 0);
+
+  background-color: rgb(255, 255, 255);
+}
+.case:nth-child(odd) {
+  background-color: rgb(131, 187, 206);
+}
