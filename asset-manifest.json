@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.4ce38d3c.css",
-    "main.js": "/react-homework-template/static/js/main.ec36bddf.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.4ce38d3c.css.map": "/react-homework-template/static/css/main.4ce38d3c.css.map",
-    "main.ec36bddf.js.map": "/react-homework-template/static/js/main.ec36bddf.js.map"
+    "main.css": "/Alla-Goptsii/Alla-Goptsii-goit-react-hw-01-components/static/css/main.4ce38d3c.css",
+    "main.js": "/Alla-Goptsii/Alla-Goptsii-goit-react-hw-01-components/static/js/main.ec36bddf.js",
+    "index.html": "/Alla-Goptsii/Alla-Goptsii-goit-react-hw-01-components/index.html",
+    "main.4ce38d3c.css.map": "/Alla-Goptsii/Alla-Goptsii-goit-react-hw-01-components/static/css/main.4ce38d3c.css.map",
+    "main.ec36bddf.js.map": "/Alla-Goptsii/Alla-Goptsii-goit-react-hw-01-components/static/js/main.ec36bddf.js.map"
   },
   "entrypoints": [
     "static/css/main.4ce38d3c.css",
