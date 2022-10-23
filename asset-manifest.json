@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Alla-Goptsii-goit-react-hw-01-components/static/css/main.2422cc7f.css",
-    "main.js": "/Alla-Goptsii-goit-react-hw-01-components/static/js/main.c0b9b400.js",
+    "main.css": "/Alla-Goptsii-goit-react-hw-01-components/static/css/main.cbca8a00.css",
+    "main.js": "/Alla-Goptsii-goit-react-hw-01-components/static/js/main.32ee34cb.js",
     "index.html": "/Alla-Goptsii-goit-react-hw-01-components/index.html",
-    "main.2422cc7f.css.map": "/Alla-Goptsii-goit-react-hw-01-components/static/css/main.2422cc7f.css.map",
-    "main.c0b9b400.js.map": "/Alla-Goptsii-goit-react-hw-01-components/static/js/main.c0b9b400.js.map"
+    "main.cbca8a00.css.map": "/Alla-Goptsii-goit-react-hw-01-components/static/css/main.cbca8a00.css.map",
+    "main.32ee34cb.js.map": "/Alla-Goptsii-goit-react-hw-01-components/static/js/main.32ee34cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2422cc7f.css",
-    "static/js/main.c0b9b400.js"
+    "static/css/main.cbca8a00.css",
+    "static/js/main.32ee34cb.js"
   ]
 }
