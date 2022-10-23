@@ -21,12 +21,8 @@ export const App = () => {
         stats={user.stats}
       />
       <Statistics title="Upload stats" stats={data} />
-      <ul className={css.list}>
-        <FriendList friends={friends} />
-      </ul>
-      <ul>
-        <TransactionHistory transactions={transactions} />
-      </ul>
+      <FriendList friends={friends} />
+      <TransactionHistory transactions={transactions} />
     </div>
   );
 };
